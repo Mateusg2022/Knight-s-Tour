@@ -1,5 +1,6 @@
 # Knight's Tour problem -
 
+
 Trabalho prático da disciplina de Matemática Discreta
 2º Período do curso de Ciência da Computação - ufmg
 Linguagem: C
