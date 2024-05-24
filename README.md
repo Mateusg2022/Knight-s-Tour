@@ -5,7 +5,7 @@ Trabalho prático da disciplina de Matemática Discreta
 2º Período do curso de Ciência da Computação - ufmg
 Linguagem: C
 
-A documentação foi feita no arquivo 'passeio.pdf'
+A documentação foi feita no arquivo 'passeio.pdf'.
 
 Ambiente de Programação:
 
